@@ -17,6 +17,14 @@ We would love to have the community work with us on BigTree.  Guidelines are cur
 4. Push to the branch (`git push origin 4.0_toms_branch`)
 5. Create an [Issue][1] with a link to your branch
 
+# One Click Deployments
+------------
+## Deploy To Azure
+This repository comes with deploy to Azure Support. Click on the button below to deploy it to Azure with MYSQL Database which is InApp MYSQL (Preview) by Microsoft.
+
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
+
+
 Changelog
 ---------
 
@@ -1177,3 +1185,6 @@ Thank you to Ashraf Alharbi at security-assessment.com for providing vulnerabili
 
 ### 4.0b1
 - Initial public release.
+
+
+
