@@ -18,7 +18,6 @@ We would love to have the community work with us on BigTree.  Guidelines are cur
 5. Create an [Issue][1] with a link to your branch
 
 # One Click Deployments
-------------
 ## Deploy To Azure
 This repository comes with deploy to Azure Support. Click on the button below to deploy it to Azure with MYSQL Database which is InApp MYSQL (Preview) by Microsoft.
 
